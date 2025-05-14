@@ -1,0 +1,15 @@
+articles.csv
+customers.csv
+transactions_train.csv
+images/
+*.pth
+*.pt
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.csv
+*.json
+*.log
